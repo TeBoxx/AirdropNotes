@@ -115,7 +115,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '分享频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的分享社群',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://https://t.me/+I6jxzl-pAsJmMDdh',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/Cries000',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
